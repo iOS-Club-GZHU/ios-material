@@ -1,0 +1,124 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ConfettiSwiftUI",
+        "repositoryURL": "https://github.com/simibac/ConfettiSwiftUI",
+        "state": {
+          "branch": null,
+          "revision": "7d07b954afdeffeac7c3ed913296f7d73b600003",
+          "version": "0.3.0"
+        }
+      },
+      {
+        "package": "CVCalendar",
+        "repositoryURL": "https://github.com/CVCalendar/CVCalendar",
+        "state": {
+          "branch": null,
+          "revision": "c78d3cc52e9a1716ea243b22a0f8f5531734a6df",
+          "version": "1.7.0"
+        }
+      },
+      {
+        "package": "Haptica",
+        "repositoryURL": "https://github.com/efremidze/Haptica",
+        "state": {
+          "branch": null,
+          "revision": "e03932406d2f36f10beefd31717730b2c2fa9014",
+          "version": "3.0.3"
+        }
+      },
+      {
+        "package": "Laden",
+        "repositoryURL": "https://github.com/vinhnx/Laden",
+        "state": {
+          "branch": null,
+          "revision": "50b02e73c657ee8a9868b9ab7d5ac84c5c7e32f2",
+          "version": "0.1.0"
+        }
+      },
+      {
+        "package": "Shift",
+        "repositoryURL": "https://github.com/vinhnx/Shift.git",
+        "state": {
+          "branch": null,
+          "revision": "8d0cdd977475ece76d7aa896bdd7b7990b4fb87c",
+          "version": "0.9.0"
+        }
+      },
+      {
+        "package": "swift-algorithms",
+        "repositoryURL": "https://github.com/apple/swift-algorithms",
+        "state": {
+          "branch": null,
+          "revision": "b14b7f4c528c942f121c8b860b9410b2bf57825e",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "swift-log",
+        "repositoryURL": "https://github.com/apple/swift-log",
+        "state": {
+          "branch": null,
+          "revision": "5d66f7ba25daf4f94100e7022febf3c75e37a6c7",
+          "version": "1.4.2"
+        }
+      },
+      {
+        "package": "swift-numerics",
+        "repositoryURL": "https://github.com/apple/swift-numerics",
+        "state": {
+          "branch": null,
+          "revision": "0a5bc04095a675662cf24757cc0640aa2204253b",
+          "version": "1.0.2"
+        }
+      },
+      {
+        "package": "SwiftDate",
+        "repositoryURL": "https://github.com/malcommac/SwiftDate",
+        "state": {
+          "branch": null,
+          "revision": "6190d0cefff3013e77ed567e6b074f324e5c5bf5",
+          "version": "6.3.1"
+        }
+      },
+      {
+        "package": "SwiftyFORM",
+        "repositoryURL": "https://github.com/neoneye/SwiftyFORM",
+        "state": {
+          "branch": null,
+          "revision": "fa1b7aefb7e7f9c4040279f94dd38af75eeebd0b",
+          "version": "1.8.6"
+        }
+      },
+      {
+        "package": "SwiftyStoreKit",
+        "repositoryURL": "https://github.com/bizz84/SwiftyStoreKit.git",
+        "state": {
+          "branch": null,
+          "revision": "3b54c8eac2840b0cdd576634e83d9ebeb70f847c",
+          "version": "0.16.3"
+        }
+      },
+      {
+        "package": "Then",
+        "repositoryURL": "https://github.com/devxoul/Then",
+        "state": {
+          "branch": null,
+          "revision": "e421a7b3440a271834337694e6050133a3958bc7",
+          "version": "2.7.0"
+        }
+      },
+      {
+        "package": "WhatsNewKit",
+        "repositoryURL": "https://github.com/SvenTiigi/WhatsNewKit.git",
+        "state": {
+          "branch": "master",
+          "revision": "8d40ce0de25a4bfe7996bef46c429c1e56a8962b",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
